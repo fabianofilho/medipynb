@@ -1,6 +1,7 @@
 # medipynb
 ipython notebooks about medicine
-- Stroke
+- AVC (stroke)
+- Epilepsia
 - Cancer
 - Diabetes
 - Cardiovascular
