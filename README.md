@@ -12,6 +12,7 @@ ipython notebooks about medicine
 - cardio
 - kidney
 - SUS
+- hiv progression
 
 ## regression
 - healthcare costs
