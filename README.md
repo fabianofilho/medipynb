@@ -1,10 +1,17 @@
 # medipynb
 ipython notebooks about medicine
+
+## preprocessing
+- hepatitis
+
+## classification
 - AVC (stroke)
-- Epilepsia
-- Hepatitis
-- Cancer
-- Diabetes
-- Cardiovascular
-- Renal
+- epilepsy
+- cancer
+- diabetes
+- cardio
+- kidney
 - SUS
+
+## regression
+- healthcare costs
